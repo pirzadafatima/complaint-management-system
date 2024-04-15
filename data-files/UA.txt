@@ -1,0 +1,12 @@
+hafsah:hafsah:Administrator
+pirzada:pirzada:Teacher
+hamza:ham:Employee
+umar:um:Manager
+Lubna:lub:Manager
+aaila:a.a:Employee
+tania:tw:Teacher
+hamad:hn:Director
+kar:k:Manager
+fatima:fatima:Teacher
+humna:humna:Employee
+usman:us:Teacher
