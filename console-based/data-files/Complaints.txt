@@ -1,3 +1,0 @@
-1:Problem:Desktop is not working.:pirzada:IT:It has been fixed.
-2:Problem:HDSDBB:tania:IT:ok
-3:Problem:hello:fatima:Admin:ok
