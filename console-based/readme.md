@@ -1,1 +1,1 @@
-#This folder contains the implementation of the complaint management system solely on console.
+This folder contains the implementation of the complaint management system solely on console.
